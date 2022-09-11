@@ -24,11 +24,11 @@ $ git clone https://github.com/WHOAMI-XD-KING/ENC&DEC-BASH
 ``
 
 ``
-$ cd bash
+$ cd ENC&DEC-BASH
 ``
 
 ``
-$ python bash.py
+$ python bash1.py
 ``
 
 ## Enjoy 
